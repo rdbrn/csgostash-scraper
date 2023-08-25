@@ -29,7 +29,7 @@ import logging
 import os
 
 from .scraper import PageHandler, RetrieveCollection, RetrieveCase, RetrieveSouvenirPackage, RetrieveWeaponSkin
-from .scraper import ItemHasNoWear, ItemNoCollection, ItemNoStattrakSouvenir, ItemHasNoDescription, ItemHasNoLore, ItemHasNoDateAdded
+from .scraper import ItemHasNoWear, ItemNoCollection, ItemNoStattrakSouvenir, ItemHasNoDescription, ItemHasNoLore, ItemHasNoDateAdded, ItemHasNoPrices
 from .objects import Collection, SkinCase, SouvenirPackage, WeaponSkin
 
 # logging.basicConfig(level=logging.DEBUG)
@@ -89,12 +89,16 @@ class ItemFactory(Factory):
         except ItemHasNoWear:
             wears = dict(vanilla=ws.get_image_url())
 
+        
+        prices2 = ws.get_prices()
+        
+
         get_rarity = ws.get_rarity()
         rarity = get_rarity.split(' ')[0]
         weapon_type = get_rarity.split(' ')[1]
 
         data_dict = dict(weapon_type=weapon_type, title=title, desc=description, lore=lore, date_added=date_added,
-                         collection=collection, found_in=found_in, rarity=rarity, wears=wears)
+                         collection=collection, found_in=found_in, rarity=rarity, wears=wears, prices=prices2)
         item = WeaponSkin._from_data(data_dict)
 
         try:
@@ -105,7 +109,9 @@ class ItemFactory(Factory):
                 item.can_be_souvenir = True
         except ItemNoStattrakSouvenir:
             pass
-
+        
+        
+        
         logging.debug(f'Created object: {repr(item)}')
         logging.info(f'Retrieving: {item.name}')
 
@@ -127,6 +133,7 @@ class CollectionFactory(Factory):
             item = ItemFactory.create_weaponskin(url)
             content.add(item)
 
+        
         data_dict = dict(name=name, icon=icon, content=content)
         col = Collection._from_data(data_dict)
 
@@ -151,6 +158,7 @@ class ContainerFactory(Factory):
             item = ItemFactory.create_weaponskin(url)
             content.add(item)
 
+        
         data_dict = dict(name=name, icon=icon, content=content)
         case = SkinCase._from_data(data_dict)
 

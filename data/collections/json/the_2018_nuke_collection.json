@@ -1,25 +1,10 @@
 {
   "name": "The 2018 Nuke Collection",
-  "image_url": "https://csgostash.com/img/collections/256x198/the_2018_nuke_collection.png?id=86a16ac6b531917bd4a3",
+  "image_url": "https://csgostash.com/img/collections/256x198/the_2018_nuke_collection.png?id=86a16ac6b531917bd4a31a18dede4bda",
   "content": {
     "Rare Special Items": [],
     "Covert Skins": [],
     "Classified Skins": [
-      {
-        "name": "M4A1-S | Control Panel",
-        "desc": "It has been hand painted with colorful dials and switches atop a blue base.",
-        "lore": "\"Is this line secure?\"",
-        "date_added": "1 September 2018",
-        "can_be_souvenir": true,
-        "can_be_stattrak": false,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhz2v_Nfz5H_uOxh7-Gw_alIITehm5D6dF-mNbN_Iv9nGu4qgE7NnfycYSQdQc_Yg3V8lm6wL-7hZC9v8_NnHBlsnQn5CvfnBzj1x5FP-U6m7XAHoDuEUTn/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhz2v_Nfz5H_uOxh7-Gw_alIITehm5D6dF-mNbN_Iv9nGu4qgE7NnfycYSQdQc_Yg3V8lm6wL-7hZC9v8_NnHBlsnQn5CvfnBzj1x5FP-U6m7XAHoDuEUTn/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhz2v_Nfz5H_uOxh7-Gw_alIITehm5D6dF-mNbM8Ij8nVmLpxIuNDztJ46RdAc9YA7UqFXrle_rgcPpupmbmCYxsnMg5X-My0e1gh9JOLdm0OveFwv7Z_lN1w/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhz2v_Nfz5H_uOxh7-Gw_alIITehm5D6dF-mNbM8Ij8nVmLpxIuNDztJ46RdAc9YA7UqFXrle_rgcPpupmbmCYxsnMg5X-My0e1gh9JOLdm0OveFwv7Z_lN1w/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhz2v_Nfz5H_uOxh7-Gw_alIITehm5D6dF-mNbJ8I3jkWu4qgE7Nnf2JIWRdwI8MF-G8gW9w-zog8W9vM-YyCcxvXZzsC7byRKwiUlLOudtm7XAHhiD2Xey/512fx384f"
-        }
-      },
       {
         "name": "Tec-9 | Remote Control",
         "desc": "It has been hand painted with colorful dials and switches atop a blue base.",
@@ -33,6 +18,165 @@
           "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhnwMzcdD4b09m4go-SqPrxN7LEm1Rd6dd2j6eZ9473iQLh-EA-aj-ncdeQe1I8ZlHZ_le6lOq7g8K1upiYznNr7iAq-z-DyJTX5-QZ/512fx384f",
           "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhnwMzcdD4b09m4go-SqPrxN7LEm1Rd6dd2j6eZ9473iQLh-EA-aj-ncdeQe1I8ZlHZ_le6lOq7g8K1upiYznNr7iAq-z-DyJTX5-QZ/512fx384f",
           "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhnwMzcdD4b09m4go-SqP_xMq3IqWdQ-sJ0xOyXodSliQPn-xdqNWynLdOSewc-MA3Z-VTsxOvm15K17p_OmyRrunQ8pSGKd1xwo-U/512fx384f"
+        },
+        "prices": {
+          "Factory New": {
+            "steam_price": "$12.49",
+            "steam_listings": "17",
+            "steam_median_price": "$11.50",
+            "steam_volume": "5",
+            "bitskins_price": "$18.97"
+          },
+          "Minimal Wear": {
+            "steam_price": "$5.21",
+            "steam_listings": "52",
+            "steam_median_price": "$4.66",
+            "steam_volume": "9",
+            "bitskins_price": "$4.75"
+          },
+          "Field-Tested": {
+            "steam_price": "$2.70",
+            "steam_listings": "90",
+            "steam_median_price": "$2.64",
+            "steam_volume": "36",
+            "bitskins_price": "$2.03"
+          },
+          "Well-Worn": {
+            "steam_price": "$1.93",
+            "steam_listings": "94",
+            "steam_median_price": "$1.83",
+            "steam_volume": "20",
+            "bitskins_price": "$1.77"
+          },
+          "Battle-Scarred": {
+            "steam_price": "$1.70",
+            "steam_listings": "115",
+            "steam_median_price": "$1.57",
+            "steam_volume": "47",
+            "bitskins_price": "$1.76"
+          },
+          "Souvenir Factory New": {
+            "steam_price": "",
+            "steam_listings": "",
+            "steam_median_price": "",
+            "steam_volume": "",
+            "bitskins_price": ""
+          },
+          "Souvenir Minimal Wear": {
+            "steam_price": "$56.70",
+            "steam_listings": "4",
+            "steam_median_price": "",
+            "steam_volume": "",
+            "bitskins_price": ""
+          },
+          "Souvenir Field-Tested": {
+            "steam_price": "$21.86",
+            "steam_listings": "5",
+            "steam_median_price": "",
+            "steam_volume": "",
+            "bitskins_price": ""
+          },
+          "Souvenir Well-Worn": {
+            "steam_price": "$17.22",
+            "steam_listings": "8",
+            "steam_median_price": "",
+            "steam_volume": "",
+            "bitskins_price": "$30.00"
+          },
+          "Souvenir Battle-Scarred": {
+            "steam_price": "$22.13",
+            "steam_listings": "10",
+            "steam_median_price": "",
+            "steam_volume": "",
+            "bitskins_price": "$22.97"
+          }
+        }
+      },
+      {
+        "name": "M4A1-S | Control Panel",
+        "desc": "It has been hand painted with colorful dials and switches atop a blue base.",
+        "lore": "\"Is this line secure?\"",
+        "date_added": "1 September 2018",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhz2v_Nfz5H_uOxh7-Gw_alIITehm5D6dF-mNbN_Iv9nGu4qgE7NnfycYSQdQc_Yg3V8lm6wL-7hZC9v8_NnHBlsnQn5CvfnBzj1x5FP-U6m7XAHoDuEUTn/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhz2v_Nfz5H_uOxh7-Gw_alIITehm5D6dF-mNbN_Iv9nGu4qgE7NnfycYSQdQc_Yg3V8lm6wL-7hZC9v8_NnHBlsnQn5CvfnBzj1x5FP-U6m7XAHoDuEUTn/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhz2v_Nfz5H_uOxh7-Gw_alIITehm5D6dF-mNbM8Ij8nVmLpxIuNDztJ46RdAc9YA7UqFXrle_rgcPpupmbmCYxsnMg5X-My0e1gh9JOLdm0OveFwv7Z_lN1w/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhz2v_Nfz5H_uOxh7-Gw_alIITehm5D6dF-mNbM8Ij8nVmLpxIuNDztJ46RdAc9YA7UqFXrle_rgcPpupmbmCYxsnMg5X-My0e1gh9JOLdm0OveFwv7Z_lN1w/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhz2v_Nfz5H_uOxh7-Gw_alIITehm5D6dF-mNbJ8I3jkWu4qgE7Nnf2JIWRdwI8MF-G8gW9w-zog8W9vM-YyCcxvXZzsC7byRKwiUlLOudtm7XAHhiD2Xey/512fx384f"
+        },
+        "prices": {
+          "Factory New": {
+            "steam_price": "$80.00",
+            "steam_listings": "29",
+            "steam_median_price": "$84.83",
+            "steam_volume": "1",
+            "bitskins_price": "$77.27"
+          },
+          "Minimal Wear": {
+            "steam_price": "$27.09",
+            "steam_listings": "63",
+            "steam_median_price": "$26.04",
+            "steam_volume": "11",
+            "bitskins_price": "$21.76"
+          },
+          "Field-Tested": {
+            "steam_price": "$14.00",
+            "steam_listings": "100",
+            "steam_median_price": "$14.06",
+            "steam_volume": "32",
+            "bitskins_price": "$1,911.00"
+          },
+          "Well-Worn": {
+            "steam_price": "$10.85",
+            "steam_listings": "41",
+            "steam_median_price": "$10.38",
+            "steam_volume": "27",
+            "bitskins_price": "$9.78"
+          },
+          "Battle-Scarred": {
+            "steam_price": "$10.67",
+            "steam_listings": "36",
+            "steam_median_price": "$10.08",
+            "steam_volume": "22",
+            "bitskins_price": "$8.88"
+          },
+          "Souvenir Factory New": {
+            "steam_price": "",
+            "steam_listings": "",
+            "steam_median_price": "",
+            "steam_volume": "",
+            "bitskins_price": ""
+          },
+          "Souvenir Minimal Wear": {
+            "steam_price": "$221.72",
+            "steam_listings": "5",
+            "steam_median_price": "",
+            "steam_volume": "",
+            "bitskins_price": "$190.00"
+          },
+          "Souvenir Field-Tested": {
+            "steam_price": "$96.99",
+            "steam_listings": "5",
+            "steam_median_price": "$124.56",
+            "steam_volume": "1",
+            "bitskins_price": "$610.00"
+          },
+          "Souvenir Well-Worn": {
+            "steam_price": "$61.18",
+            "steam_listings": "15",
+            "steam_median_price": "",
+            "steam_volume": "",
+            "bitskins_price": ""
+          },
+          "Souvenir Battle-Scarred": {
+            "steam_price": "$61.14",
+            "steam_listings": "7",
+            "steam_median_price": "",
+            "steam_volume": "",
+            "bitskins_price": "$99.00"
+          }
         }
       }
     ],
@@ -50,21 +194,78 @@
           "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf0v73fyhB4Nm3hr-YnOL4P6jukXlU7ctOh-zF_Jn4t1i1uRQ5fTvydYGQI1I2NVCD_lfsl-3s1J_utJmYnHFnuSkqtH7flhHh1BlKa-FxxavJlq0x5oI/512fx384f",
           "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf0v73fyhB4Nm3hr-YnOL4P6jukXlU7ctOh-zF_Jn4t1i1uRQ5fTvydYGQI1I2NVCD_lfsl-3s1J_utJmYnHFnuSkqtH7flhHh1BlKa-FxxavJlq0x5oI/512fx384f",
           "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf0v73fyhB4Nm3hr-YnOL4P6jukXlU7ctOguzA45XKhFWmrBZyMDz2JYSTelJtYArR-1G_yOa91Jbtusian3MwvXZxsXfezUSy0h1Navsv26Kk7myqpA/512fx384f"
-        }
-      },
-      {
-        "name": "AUG | Random Access",
-        "desc": "A red circuit board pattern has been applied over a black base.",
-        "lore": "The journey is random; the result is not",
-        "date_added": "1 September 2018",
-        "can_be_souvenir": true,
-        "can_be_stattrak": false,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFAZt7PDBYz5X5ci0m4GZk8j7IbrfkW5u5Mx2gv3--Y3nj1H6rxJlNW7wJILDdg5oaA7Q-ALqkurqh8Tqu5rPyHZmuHYqsyqOmUfkgwYMMLK3Ecp8JA/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFAZt7PDBYz5X5ci0m4GZk8j7IbrfkW5u5Mx2gv3--Y3nj1H6rxJlNW7wJILDdg5oaA7Q-ALqkurqh8Tqu5rPyHZmuHYqsyqOmUfkgwYMMLK3Ecp8JA/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFAZt7PDBYz5X5ci0m4GZk8j7IbrfkW5u5cB1g_zMyoD0mlOx5RZrZ2j1JIbHewA2NVDW8gC3kL3s15DptcjPyCM2uCMn4HyIl0a_gkxSLrs4qFpzzW0/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFAZt7PDBYz5X5ci0m4GZk8j7IbrfkW5u5cB1g_zMyoD0mlOx5RZrZ2j1JIbHewA2NVDW8gC3kL3s15DptcjPyCM2uCMn4HyIl0a_gkxSLrs4qFpzzW0/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFAZt7PDBYz5X5ci0m4GZk8j7IbrfkW5u4MBwnPD--Y3nj1H6qRU_Y23zJYSWegM_Y1DR-lftye7shZ7tv5rIyHs173Ygs3iOzkbhgQYMMLLlMgWhUw/512fx384f"
+        },
+        "prices": {
+          "Factory New": {
+            "steam_price": "$22.71",
+            "steam_listings": "82",
+            "steam_median_price": "$20.94",
+            "steam_volume": "17",
+            "bitskins_price": "$27.00"
+          },
+          "Minimal Wear": {
+            "steam_price": "$11.04",
+            "steam_listings": "97",
+            "steam_median_price": "$10.85",
+            "steam_volume": "52",
+            "bitskins_price": "$9.50"
+          },
+          "Field-Tested": {
+            "steam_price": "$5.32",
+            "steam_listings": "167",
+            "steam_median_price": "$4.99",
+            "steam_volume": "98",
+            "bitskins_price": "$5.40"
+          },
+          "Well-Worn": {
+            "steam_price": "$6.83",
+            "steam_listings": "24",
+            "steam_median_price": "$6.33",
+            "steam_volume": "12",
+            "bitskins_price": "$5.82"
+          },
+          "Battle-Scarred": {
+            "steam_price": "$3.57",
+            "steam_listings": "198",
+            "steam_median_price": "$3.56",
+            "steam_volume": "50",
+            "bitskins_price": "$4.00"
+          },
+          "Souvenir Factory New": {
+            "steam_price": "$122.03",
+            "steam_listings": "9",
+            "steam_median_price": "",
+            "steam_volume": "",
+            "bitskins_price": ""
+          },
+          "Souvenir Minimal Wear": {
+            "steam_price": "$61.03",
+            "steam_listings": "16",
+            "steam_median_price": "",
+            "steam_volume": "",
+            "bitskins_price": "$273.58"
+          },
+          "Souvenir Field-Tested": {
+            "steam_price": "$17.73",
+            "steam_listings": "24",
+            "steam_median_price": "$14.55",
+            "steam_volume": "2",
+            "bitskins_price": "$15.89"
+          },
+          "Souvenir Well-Worn": {
+            "steam_price": "$52.00",
+            "steam_listings": "4",
+            "steam_median_price": "",
+            "steam_volume": "",
+            "bitskins_price": ""
+          },
+          "Souvenir Battle-Scarred": {
+            "steam_price": "$17.11",
+            "steam_listings": "8",
+            "steam_median_price": "$13.78",
+            "steam_volume": "3",
+            "bitskins_price": ""
+          }
         }
       },
       {
@@ -80,23 +281,254 @@
           "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhoyszGZD5O6d2kq4iEg_jmMrXWk1Rc7cF4n-T--Y3nj1H6-UNtZTj1ItScewBtNw3WqQTvybjthJW078zKzidl6yFw4iyMykaxgAYMMLIb1NrMzg/512fx384f",
           "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhoyszGZD5O6d2kq4iEg_jmMrXWk1Rc7cF4n-T--Y3nj1H6-UNtZTj1ItScewBtNw3WqQTvybjthJW078zKzidl6yFw4iyMykaxgAYMMLIb1NrMzg/512fx384f",
           "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhoyszGZD5O6d2kq4iEg_jmMrXWk1RZ7cRnk9bN9J7yjRq2-ko-NmD1coeXIAE8YQuFr1G2w7rt1sW_up_NzSdivCYn5niOzBKzn1gSOY-r3WTa/512fx384f"
+        },
+        "prices": {
+          "Factory New": {
+            "steam_price": "$6.37",
+            "steam_listings": "28",
+            "steam_median_price": "$5.78",
+            "steam_volume": "6",
+            "bitskins_price": "$10.80"
+          },
+          "Minimal Wear": {
+            "steam_price": "$3.00",
+            "steam_listings": "56",
+            "steam_median_price": "$3.31",
+            "steam_volume": "25",
+            "bitskins_price": "$3.54"
+          },
+          "Field-Tested": {
+            "steam_price": "$1.40",
+            "steam_listings": "101",
+            "steam_median_price": "$1.28",
+            "steam_volume": "21",
+            "bitskins_price": "$1.40"
+          },
+          "Well-Worn": {
+            "steam_price": "$0.99",
+            "steam_listings": "124",
+            "steam_median_price": "$1.01",
+            "steam_volume": "37",
+            "bitskins_price": "$1.14"
+          },
+          "Battle-Scarred": {
+            "steam_price": "$1.04",
+            "steam_listings": "68",
+            "steam_median_price": "$0.96",
+            "steam_volume": "24",
+            "bitskins_price": "$1.40"
+          },
+          "Souvenir Factory New": {
+            "steam_price": "$42.24",
+            "steam_listings": "4",
+            "steam_median_price": "",
+            "steam_volume": "",
+            "bitskins_price": "$99.99"
+          },
+          "Souvenir Minimal Wear": {
+            "steam_price": "$3.14",
+            "steam_listings": "20",
+            "steam_median_price": "$2.61",
+            "steam_volume": "3",
+            "bitskins_price": "$4.48"
+          },
+          "Souvenir Field-Tested": {
+            "steam_price": "$1.08",
+            "steam_listings": "24",
+            "steam_median_price": "$0.98",
+            "steam_volume": "1",
+            "bitskins_price": "$2.87"
+          },
+          "Souvenir Well-Worn": {
+            "steam_price": "$0.81",
+            "steam_listings": "36",
+            "steam_median_price": "$0.83",
+            "steam_volume": "1",
+            "bitskins_price": "$1.58"
+          },
+          "Souvenir Battle-Scarred": {
+            "steam_price": "$2.04",
+            "steam_listings": "18",
+            "steam_median_price": "",
+            "steam_volume": "",
+            "bitskins_price": "$1.97"
+          }
+        }
+      },
+      {
+        "name": "AUG | Random Access",
+        "desc": "A red circuit board pattern has been applied over a black base.",
+        "lore": "The journey is random; the result is not",
+        "date_added": "1 September 2018",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFAZt7PDBYz5X5ci0m4GZk8j7IbrfkW5u5Mx2gv3--Y3nj1H6rxJlNW7wJILDdg5oaA7Q-ALqkurqh8Tqu5rPyHZmuHYqsyqOmUfkgwYMMLK3Ecp8JA/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFAZt7PDBYz5X5ci0m4GZk8j7IbrfkW5u5Mx2gv3--Y3nj1H6rxJlNW7wJILDdg5oaA7Q-ALqkurqh8Tqu5rPyHZmuHYqsyqOmUfkgwYMMLK3Ecp8JA/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFAZt7PDBYz5X5ci0m4GZk8j7IbrfkW5u5cB1g_zMyoD0mlOx5RZrZ2j1JIbHewA2NVDW8gC3kL3s15DptcjPyCM2uCMn4HyIl0a_gkxSLrs4qFpzzW0/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFAZt7PDBYz5X5ci0m4GZk8j7IbrfkW5u5cB1g_zMyoD0mlOx5RZrZ2j1JIbHewA2NVDW8gC3kL3s15DptcjPyCM2uCMn4HyIl0a_gkxSLrs4qFpzzW0/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFAZt7PDBYz5X5ci0m4GZk8j7IbrfkW5u4MBwnPD--Y3nj1H6qRU_Y23zJYSWegM_Y1DR-lftye7shZ7tv5rIyHs173Ygs3iOzkbhgQYMMLLlMgWhUw/512fx384f"
+        },
+        "prices": {
+          "Factory New": {
+            "steam_price": "$5.94",
+            "steam_listings": "78",
+            "steam_median_price": "$6.11",
+            "steam_volume": "22",
+            "bitskins_price": "$5.70"
+          },
+          "Minimal Wear": {
+            "steam_price": "$3.12",
+            "steam_listings": "50",
+            "steam_median_price": "$2.96",
+            "steam_volume": "23",
+            "bitskins_price": "$2.54"
+          },
+          "Field-Tested": {
+            "steam_price": "$1.38",
+            "steam_listings": "106",
+            "steam_median_price": "$1.30",
+            "steam_volume": "45",
+            "bitskins_price": "$1.37"
+          },
+          "Well-Worn": {
+            "steam_price": "$1.20",
+            "steam_listings": "52",
+            "steam_median_price": "$1.15",
+            "steam_volume": "5",
+            "bitskins_price": "$2.16"
+          },
+          "Battle-Scarred": {
+            "steam_price": "$1.08",
+            "steam_listings": "60",
+            "steam_median_price": "$0.97",
+            "steam_volume": "2",
+            "bitskins_price": "$1.98"
+          },
+          "Souvenir Factory New": {
+            "steam_price": "$8.86",
+            "steam_listings": "13",
+            "steam_median_price": "$7.32",
+            "steam_volume": "1",
+            "bitskins_price": "$13.98"
+          },
+          "Souvenir Minimal Wear": {
+            "steam_price": "$2.72",
+            "steam_listings": "29",
+            "steam_median_price": "$2.37",
+            "steam_volume": "1",
+            "bitskins_price": "$8.00"
+          },
+          "Souvenir Field-Tested": {
+            "steam_price": "$2.27",
+            "steam_listings": "89",
+            "steam_median_price": "$2.12",
+            "steam_volume": "6",
+            "bitskins_price": "$3.46"
+          },
+          "Souvenir Well-Worn": {
+            "steam_price": "$32.13",
+            "steam_listings": "3",
+            "steam_median_price": "",
+            "steam_volume": "",
+            "bitskins_price": ""
+          },
+          "Souvenir Battle-Scarred": {
+            "steam_price": "$30.44",
+            "steam_listings": "5",
+            "steam_median_price": "",
+            "steam_volume": "",
+            "bitskins_price": ""
+          }
         }
       }
     ],
     "Mil-Spec Skins": [
       {
-        "name": "P90 | Facility Negative",
-        "desc": "A blue and yellow hydrographic pattern resembling a nuclear power plant has been applied.",
-        "lore": "The opposite of a containment structure",
+        "name": "MP5-SD | Co-Processor",
+        "desc": "A blue circuit board pattern been applied.",
+        "lore": "Silently supplementing",
         "date_added": "1 September 2018",
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FA957PHEZDhS_tW4gL-KhuL1DLfYkWNF18lwmO7Eu9-gjgziqUA4MmnydYWUdwU3NV2B_1i8yOvn1p-6v5jPn3Rg7iEk4nrD30vggjTcF3I/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FA957PHEZDhS_tW4gL-KhuL1DLfYkWNF18lwmO7Eu9-gjgziqUA4MmnydYWUdwU3NV2B_1i8yOvn1p-6v5jPn3Rg7iEk4nrD30vggjTcF3I/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FA957PHEZDhS_tW4gL-KhuL1DLbUkmJE5fp9i_vG8MLz3gfk-EQ9ZW-lddKReg46ZAvU_lG2kubo1p-_vcvKwSdrvSYrsCqIgVXp1iysFaZo/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FA957PHEZDhS_tW4gL-KhuL1DLbUkmJE5fp9i_vG8MLz3gfk-EQ9ZW-lddKReg46ZAvU_lG2kubo1p-_vcvKwSdrvSYrsCqIgVXp1iysFaZo/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FA957PHEZDhS_tW4gL-KhuL1DLPUl31I18lwmO7Eu4ij0VLi-EttZ2ulcoWTIQNqM1rX-lHskL2-1MC5uZycn3FrsnUq4nzD30vgEnY8-DY/512fx384f"
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6rwOANf0v73cjRQ78m_gIKEluXwDLrAg2pu5Mx2gv3--Y3nj1H6-UNpNmiid4fHd1RoMwqGq1nowerrjMXvvJWbzXA363YhsHuMy0HjgwYMMLLOu2TOBA/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6rwOANf0v73cjRQ78m_gIKEluXwDLrAg2pu5Mx2gv3--Y3nj1H6-UNpNmiid4fHd1RoMwqGq1nowerrjMXvvJWbzXA363YhsHuMy0HjgwYMMLLOu2TOBA/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6rwOANf0v73cjRQ78m_gIKEluXwDLrAg2pu5cB1g_zMyoD0mlOx5UA5Ymunco-RdQJtZljZrlS2wu_sh5Xq6pTOyCc3s3Ei4yzVm0DjgRBSLrs4dNOl3DY/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6rwOANf0v73cjRQ78m_gIKEluXwDLrAg2pu5cB1g_zMyoD0mlOx5UA5Ymunco-RdQJtZljZrlS2wu_sh5Xq6pTOyCc3s3Ei4yzVm0DjgRBSLrs4dNOl3DY/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6rwOANf0v73cjRQ78m_gIKEluXwDLrAg2pu4MBwnPD--Y3nj1H6_Es_YzqmLYOcewA4MljZq1a5l-3tjZC97pzNnyZqunNz43_YzBfj0wYMMLJERJUVlg/512fx384f"
+        },
+        "prices": {
+          "Factory New": {
+            "steam_price": "$1.15",
+            "steam_listings": "210",
+            "steam_median_price": "$1.12",
+            "steam_volume": "92",
+            "bitskins_price": "$1.01"
+          },
+          "Minimal Wear": {
+            "steam_price": "$0.84",
+            "steam_listings": "234",
+            "steam_median_price": "$0.81",
+            "steam_volume": "117",
+            "bitskins_price": "$0.65"
+          },
+          "Field-Tested": {
+            "steam_price": "$0.57",
+            "steam_listings": "325",
+            "steam_median_price": "$0.55",
+            "steam_volume": "132",
+            "bitskins_price": "$0.51"
+          },
+          "Well-Worn": {
+            "steam_price": "$0.52",
+            "steam_listings": "95",
+            "steam_median_price": "$0.51",
+            "steam_volume": "13",
+            "bitskins_price": "$0.50"
+          },
+          "Battle-Scarred": {
+            "steam_price": "$0.49",
+            "steam_listings": "68",
+            "steam_median_price": "$0.52",
+            "steam_volume": "13",
+            "bitskins_price": "$0.49"
+          },
+          "Souvenir Factory New": {
+            "steam_price": "$2.22",
+            "steam_listings": "58",
+            "steam_median_price": "$2.14",
+            "steam_volume": "2",
+            "bitskins_price": "$6.23"
+          },
+          "Souvenir Minimal Wear": {
+            "steam_price": "$1.73",
+            "steam_listings": "49",
+            "steam_median_price": "$1.63",
+            "steam_volume": "4",
+            "bitskins_price": "$1.48"
+          },
+          "Souvenir Field-Tested": {
+            "steam_price": "$0.99",
+            "steam_listings": "84",
+            "steam_median_price": "$0.87",
+            "steam_volume": "11",
+            "bitskins_price": "$1.33"
+          },
+          "Souvenir Well-Worn": {
+            "steam_price": "$15.69",
+            "steam_listings": "12",
+            "steam_median_price": "$13.62",
+            "steam_volume": "1",
+            "bitskins_price": ""
+          },
+          "Souvenir Battle-Scarred": {
+            "steam_price": "$17.49",
+            "steam_listings": "12",
+            "steam_median_price": "",
+            "steam_volume": "",
+            "bitskins_price": ""
+          }
         }
       },
       {
@@ -112,6 +544,165 @@
           "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FA957P3dcjFH7c6Jh4uem_vnDKnUkmld_cBOh-zF_Jn4t1i1uRQ5fTzxJIDDdQQ4N1_Wq1PsxL_ngZXt75mYmyA37iQks3yIzUa_iRlJPbFxxavJcvYnYZs/512fx384f",
           "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FA957P3dcjFH7c6Jh4uem_vnDKnUkmld_cBOh-zF_Jn4t1i1uRQ5fTzxJIDDdQQ4N1_Wq1PsxL_ngZXt75mYmyA37iQks3yIzUa_iRlJPbFxxavJcvYnYZs/512fx384f",
           "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FA957P3dcjFH7c6Jh4uem_vnDKnUkmld_cBOguzA45XKhFWmrBZyYWGmdoKcIA47aVDV8lS-w-3r18LutcmYzXMy6ycmtCmLlhTmiB1NOPsv26I6jwPw8g/512fx384f"
+        },
+        "prices": {
+          "Factory New": {
+            "steam_price": "$3.06",
+            "steam_listings": "318",
+            "steam_median_price": "$2.93",
+            "steam_volume": "105",
+            "bitskins_price": "$2.29"
+          },
+          "Minimal Wear": {
+            "steam_price": "$1.43",
+            "steam_listings": "1014",
+            "steam_median_price": "$1.37",
+            "steam_volume": "360",
+            "bitskins_price": "$1.03"
+          },
+          "Field-Tested": {
+            "steam_price": "$0.86",
+            "steam_listings": "0",
+            "steam_median_price": "$0.82",
+            "steam_volume": "836",
+            "bitskins_price": "$0.62"
+          },
+          "Well-Worn": {
+            "steam_price": "$1.30",
+            "steam_listings": "192",
+            "steam_median_price": "$1.26",
+            "steam_volume": "48",
+            "bitskins_price": "$1.10"
+          },
+          "Battle-Scarred": {
+            "steam_price": "$0.80",
+            "steam_listings": "578",
+            "steam_median_price": "$0.76",
+            "steam_volume": "125",
+            "bitskins_price": "$0.63"
+          },
+          "Souvenir Factory New": {
+            "steam_price": "$64.60",
+            "steam_listings": "23",
+            "steam_median_price": "",
+            "steam_volume": "",
+            "bitskins_price": "$80.00"
+          },
+          "Souvenir Minimal Wear": {
+            "steam_price": "$13.00",
+            "steam_listings": "56",
+            "steam_median_price": "$12.90",
+            "steam_volume": "5",
+            "bitskins_price": "$22.00"
+          },
+          "Souvenir Field-Tested": {
+            "steam_price": "$7.20",
+            "steam_listings": "101",
+            "steam_median_price": "$6.52",
+            "steam_volume": "12",
+            "bitskins_price": "$6.00"
+          },
+          "Souvenir Well-Worn": {
+            "steam_price": "$11.20",
+            "steam_listings": "18",
+            "steam_median_price": "$11.37",
+            "steam_volume": "2",
+            "bitskins_price": "$39.74"
+          },
+          "Souvenir Battle-Scarred": {
+            "steam_price": "$8.31",
+            "steam_listings": "49",
+            "steam_median_price": "$8.59",
+            "steam_volume": "4",
+            "bitskins_price": "$14.98"
+          }
+        }
+      },
+      {
+        "name": "P90 | Facility Negative",
+        "desc": "A blue and yellow hydrographic pattern resembling a nuclear power plant has been applied.",
+        "lore": "The opposite of a containment structure",
+        "date_added": "1 September 2018",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FA957PHEZDhS_tW4gL-KhuL1DLfYkWNF18lwmO7Eu9-gjgziqUA4MmnydYWUdwU3NV2B_1i8yOvn1p-6v5jPn3Rg7iEk4nrD30vggjTcF3I/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FA957PHEZDhS_tW4gL-KhuL1DLfYkWNF18lwmO7Eu9-gjgziqUA4MmnydYWUdwU3NV2B_1i8yOvn1p-6v5jPn3Rg7iEk4nrD30vggjTcF3I/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FA957PHEZDhS_tW4gL-KhuL1DLbUkmJE5fp9i_vG8MLz3gfk-EQ9ZW-lddKReg46ZAvU_lG2kubo1p-_vcvKwSdrvSYrsCqIgVXp1iysFaZo/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FA957PHEZDhS_tW4gL-KhuL1DLbUkmJE5fp9i_vG8MLz3gfk-EQ9ZW-lddKReg46ZAvU_lG2kubo1p-_vcvKwSdrvSYrsCqIgVXp1iysFaZo/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FA957PHEZDhS_tW4gL-KhuL1DLPUl31I18lwmO7Eu4ij0VLi-EttZ2ulcoWTIQNqM1rX-lHskL2-1MC5uZycn3FrsnUq4nzD30vgEnY8-DY/512fx384f"
+        },
+        "prices": {
+          "Factory New": {
+            "steam_price": "$1.17",
+            "steam_listings": "291",
+            "steam_median_price": "$1.11",
+            "steam_volume": "102",
+            "bitskins_price": "$0.90"
+          },
+          "Minimal Wear": {
+            "steam_price": "$0.83",
+            "steam_listings": "185",
+            "steam_median_price": "$0.83",
+            "steam_volume": "88",
+            "bitskins_price": "$0.81"
+          },
+          "Field-Tested": {
+            "steam_price": "$0.59",
+            "steam_listings": "335",
+            "steam_median_price": "$0.59",
+            "steam_volume": "159",
+            "bitskins_price": "$0.44"
+          },
+          "Well-Worn": {
+            "steam_price": "$0.48",
+            "steam_listings": "78",
+            "steam_median_price": "$0.46",
+            "steam_volume": "9",
+            "bitskins_price": "$0.44"
+          },
+          "Battle-Scarred": {
+            "steam_price": "$0.50",
+            "steam_listings": "87",
+            "steam_median_price": "$0.45",
+            "steam_volume": "16",
+            "bitskins_price": "$4,985.11"
+          },
+          "Souvenir Factory New": {
+            "steam_price": "$2.41",
+            "steam_listings": "47",
+            "steam_median_price": "$2.31",
+            "steam_volume": "1",
+            "bitskins_price": "$1.88"
+          },
+          "Souvenir Minimal Wear": {
+            "steam_price": "$1.09",
+            "steam_listings": "42",
+            "steam_median_price": "$1.06",
+            "steam_volume": "3",
+            "bitskins_price": "$1.50"
+          },
+          "Souvenir Field-Tested": {
+            "steam_price": "$0.72",
+            "steam_listings": "96",
+            "steam_median_price": "$0.62",
+            "steam_volume": "9",
+            "bitskins_price": "$1.24"
+          },
+          "Souvenir Well-Worn": {
+            "steam_price": "$6.85",
+            "steam_listings": "16",
+            "steam_median_price": "$4.11",
+            "steam_volume": "1",
+            "bitskins_price": ""
+          },
+          "Souvenir Battle-Scarred": {
+            "steam_price": "$8.79",
+            "steam_listings": "9",
+            "steam_median_price": "$6.98",
+            "steam_volume": "4",
+            "bitskins_price": ""
+          }
         }
       },
       {
@@ -127,21 +718,78 @@
           "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhoyszMZD5W_-O0mJWOqPrxN7LEm1Rd6dd2j6fC8I_03gyx-kRpYm6lcNTDcg84Z1DS_Fntw7250Je47ZzIyyZquHVz-z-DyC90_rWf/512fx384f",
           "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhoyszMZD5W_-O0mJWOqPrxN7LEm1Rd6dd2j6fC8I_03gyx-kRpYm6lcNTDcg84Z1DS_Fntw7250Je47ZzIyyZquHVz-z-DyC90_rWf/512fx384f",
           "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhoyszMZD5W_-O0mJWOqP_xMq3IqWdQ-sJ0xOyXptWg0Q3g8xVoYWGiIdXEcQE-ZV_R-VG2w-3p1JHqvpzOyXZg6XU8pSGKERKgXS0/512fx384f"
-        }
-      },
-      {
-        "name": "MP5-SD | Co-Processor",
-        "desc": "A blue circuit board pattern been applied.",
-        "lore": "Silently supplementing",
-        "date_added": "1 September 2018",
-        "can_be_souvenir": true,
-        "can_be_stattrak": false,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6rwOANf0v73cjRQ78m_gIKEluXwDLrAg2pu5Mx2gv3--Y3nj1H6-UNpNmiid4fHd1RoMwqGq1nowerrjMXvvJWbzXA363YhsHuMy0HjgwYMMLLOu2TOBA/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6rwOANf0v73cjRQ78m_gIKEluXwDLrAg2pu5Mx2gv3--Y3nj1H6-UNpNmiid4fHd1RoMwqGq1nowerrjMXvvJWbzXA363YhsHuMy0HjgwYMMLLOu2TOBA/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6rwOANf0v73cjRQ78m_gIKEluXwDLrAg2pu5cB1g_zMyoD0mlOx5UA5Ymunco-RdQJtZljZrlS2wu_sh5Xq6pTOyCc3s3Ei4yzVm0DjgRBSLrs4dNOl3DY/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6rwOANf0v73cjRQ78m_gIKEluXwDLrAg2pu5cB1g_zMyoD0mlOx5UA5Ymunco-RdQJtZljZrlS2wu_sh5Xq6pTOyCc3s3Ei4yzVm0DjgRBSLrs4dNOl3DY/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6rwOANf0v73cjRQ78m_gIKEluXwDLrAg2pu4MBwnPD--Y3nj1H6_Es_YzqmLYOcewA4MljZq1a5l-3tjZC97pzNnyZqunNz43_YzBfj0wYMMLJERJUVlg/512fx384f"
+        },
+        "prices": {
+          "Factory New": {
+            "steam_price": "$1.15",
+            "steam_listings": "194",
+            "steam_median_price": "$1.12",
+            "steam_volume": "100",
+            "bitskins_price": "$0.90"
+          },
+          "Minimal Wear": {
+            "steam_price": "$0.83",
+            "steam_listings": "142",
+            "steam_median_price": "$0.82",
+            "steam_volume": "102",
+            "bitskins_price": "$0.67"
+          },
+          "Field-Tested": {
+            "steam_price": "$0.58",
+            "steam_listings": "337",
+            "steam_median_price": "$0.58",
+            "steam_volume": "198",
+            "bitskins_price": "$0.62"
+          },
+          "Well-Worn": {
+            "steam_price": "$0.54",
+            "steam_listings": "99",
+            "steam_median_price": "$0.46",
+            "steam_volume": "19",
+            "bitskins_price": "$0.68"
+          },
+          "Battle-Scarred": {
+            "steam_price": "$0.53",
+            "steam_listings": "133",
+            "steam_median_price": "$0.53",
+            "steam_volume": "19",
+            "bitskins_price": ""
+          },
+          "Souvenir Factory New": {
+            "steam_price": "$1.46",
+            "steam_listings": "32",
+            "steam_median_price": "$1.47",
+            "steam_volume": "3",
+            "bitskins_price": "$1.96"
+          },
+          "Souvenir Minimal Wear": {
+            "steam_price": "$0.66",
+            "steam_listings": "65",
+            "steam_median_price": "$0.63",
+            "steam_volume": "7",
+            "bitskins_price": "$1.70"
+          },
+          "Souvenir Field-Tested": {
+            "steam_price": "$0.36",
+            "steam_listings": "83",
+            "steam_median_price": "$0.32",
+            "steam_volume": "9",
+            "bitskins_price": "$0.87"
+          },
+          "Souvenir Well-Worn": {
+            "steam_price": "$13.22",
+            "steam_listings": "16",
+            "steam_median_price": "$11.38",
+            "steam_volume": "1",
+            "bitskins_price": ""
+          },
+          "Souvenir Battle-Scarred": {
+            "steam_price": "$16.64",
+            "steam_listings": "6",
+            "steam_median_price": "",
+            "steam_volume": "",
+            "bitskins_price": ""
+          }
         }
       }
     ],
@@ -159,6 +807,78 @@
           "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczAaAJM-d-6kYGZqOT_JrfdhVRQ-dBwteTE8YXghWu4qgE7NnelIdOdd1U-YF2EqVm8x72518K5tZ7AyXUyvyZz5X2Pyhzhh0tNbrFnm7XAHpmXpZc8/512fx384f",
           "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczAaAJM-d-6kYGZqOT_JrfdhVRQ-dBwteTE8YXghWu4qgE7NnelIdOdd1U-YF2EqVm8x72518K5tZ7AyXUyvyZz5X2Pyhzhh0tNbrFnm7XAHpmXpZc8/512fx384f",
           "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczAaAJM-d-6kYGZqOT_JrfdhVRQ-dBwteHE9Jrst1i1uRQ5fTvxLdfAcgJoZF7X8la4k7vvhpO16J_Az3o36HFx5n2MyRK2gBAaaLRxxavJmUOk92A/512fx384f"
+        },
+        "prices": {
+          "Factory New": {
+            "steam_price": "$0.32",
+            "steam_listings": "1184",
+            "steam_median_price": "$0.30",
+            "steam_volume": "239",
+            "bitskins_price": "$0.22"
+          },
+          "Minimal Wear": {
+            "steam_price": "$0.14",
+            "steam_listings": "2452",
+            "steam_median_price": "$0.12",
+            "steam_volume": "724",
+            "bitskins_price": "$0.10"
+          },
+          "Field-Tested": {
+            "steam_price": "$0.09",
+            "steam_listings": "3648",
+            "steam_median_price": "$0.07",
+            "steam_volume": "1045",
+            "bitskins_price": "$0.05"
+          },
+          "Well-Worn": {
+            "steam_price": "$0.11",
+            "steam_listings": "614",
+            "steam_median_price": "$0.09",
+            "steam_volume": "88",
+            "bitskins_price": "$0.07"
+          },
+          "Battle-Scarred": {
+            "steam_price": "$0.08",
+            "steam_listings": "1396",
+            "steam_median_price": "$0.06",
+            "steam_volume": "225",
+            "bitskins_price": "$0.06"
+          },
+          "Souvenir Factory New": {
+            "steam_price": "$4.50",
+            "steam_listings": "49",
+            "steam_median_price": "$3.99",
+            "steam_volume": "1",
+            "bitskins_price": "$5.07"
+          },
+          "Souvenir Minimal Wear": {
+            "steam_price": "$1.24",
+            "steam_listings": "101",
+            "steam_median_price": "$1.29",
+            "steam_volume": "16",
+            "bitskins_price": "$1.06"
+          },
+          "Souvenir Field-Tested": {
+            "steam_price": "$0.50",
+            "steam_listings": "165",
+            "steam_median_price": "$0.45",
+            "steam_volume": "38",
+            "bitskins_price": "$0.36"
+          },
+          "Souvenir Well-Worn": {
+            "steam_price": "$0.95",
+            "steam_listings": "38",
+            "steam_median_price": "$1.06",
+            "steam_volume": "2",
+            "bitskins_price": "$1.18"
+          },
+          "Souvenir Battle-Scarred": {
+            "steam_price": "$0.48",
+            "steam_listings": "117",
+            "steam_median_price": "$0.45",
+            "steam_volume": "10",
+            "bitskins_price": "$0.46"
+          }
         }
       },
       {
@@ -174,6 +894,78 @@
           "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhh3szLeC9B-dWilo-KhfPLILLdgG5D18h0juDU-LP5iUazrl1lNWvwItWTe1dvaVzRqFK4weq915bq7cvOn3phuSIj4nbanRW3hB1KcKUx0or5dq6O/512fx384f",
           "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhh3szLeC9B-dWilo-KhfPLILLdgG5D18h0juDU-LP5iUazrl1lNWvwItWTe1dvaVzRqFK4weq915bq7cvOn3phuSIj4nbanRW3hB1KcKUx0or5dq6O/512fx384f",
           "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhh3szLeC9B-dWilo-KhfPLILLdgG5D1810i__YyoD0mlOx5UdpYTryItWWIAM3Zl7R-QS6x-vr08Po6Zqcm3pgvykm7HbVmh2-0kxSLrs4AY7uTwM/512fx384f"
+        },
+        "prices": {
+          "Factory New": {
+            "steam_price": "$0.19",
+            "steam_listings": "1980",
+            "steam_median_price": "$0.18",
+            "steam_volume": "365",
+            "bitskins_price": "$0.14"
+          },
+          "Minimal Wear": {
+            "steam_price": "$0.12",
+            "steam_listings": "1789",
+            "steam_median_price": "$0.11",
+            "steam_volume": "588",
+            "bitskins_price": "$0.09"
+          },
+          "Field-Tested": {
+            "steam_price": "$0.09",
+            "steam_listings": "2361",
+            "steam_median_price": "$0.07",
+            "steam_volume": "623",
+            "bitskins_price": "$0.05"
+          },
+          "Well-Worn": {
+            "steam_price": "$0.10",
+            "steam_listings": "416",
+            "steam_median_price": "$0.08",
+            "steam_volume": "66",
+            "bitskins_price": "$0.06"
+          },
+          "Battle-Scarred": {
+            "steam_price": "$0.10",
+            "steam_listings": "423",
+            "steam_median_price": "$0.07",
+            "steam_volume": "57",
+            "bitskins_price": "$0.09"
+          },
+          "Souvenir Factory New": {
+            "steam_price": "$1.85",
+            "steam_listings": "199",
+            "steam_median_price": "$1.82",
+            "steam_volume": "22",
+            "bitskins_price": "$1.79"
+          },
+          "Souvenir Minimal Wear": {
+            "steam_price": "$0.94",
+            "steam_listings": "357",
+            "steam_median_price": "$0.95",
+            "steam_volume": "38",
+            "bitskins_price": "$0.72"
+          },
+          "Souvenir Field-Tested": {
+            "steam_price": "$0.62",
+            "steam_listings": "498",
+            "steam_median_price": "$0.59",
+            "steam_volume": "73",
+            "bitskins_price": "$0.68"
+          },
+          "Souvenir Well-Worn": {
+            "steam_price": "$1.00",
+            "steam_listings": "85",
+            "steam_median_price": "$0.96",
+            "steam_volume": "10",
+            "bitskins_price": "$3.91"
+          },
+          "Souvenir Battle-Scarred": {
+            "steam_price": "$1.24",
+            "steam_listings": "35",
+            "steam_median_price": "$1.06",
+            "steam_volume": "6",
+            "bitskins_price": "$2.05"
+          }
         }
       },
       {
@@ -189,6 +981,78 @@
           "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouL-iLhFf2-r3dShB-M-JjYWHm_jjDLbUkmJE5fp9i_vG8MKgiQbsrxA-ZWv2d9CSIQE2Y1rXqFHrwObtjcW1v57OzXVq7iYr7CvfgVXp1qzwb0Lf/512fx384f",
           "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouL-iLhFf2-r3dShB-M-JjYWHm_jjDLbUkmJE5fp9i_vG8MKgiQbsrxA-ZWv2d9CSIQE2Y1rXqFHrwObtjcW1v57OzXVq7iYr7CvfgVXp1qzwb0Lf/512fx384f",
           "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouL-iLhFf2-r3dShB-M-JjYWHm_jjDLPUl31I18lwmO7Eu96t2FK2-Ec_NTj7I4aTelU3ZVyDrwK3wezngMO_uJmfnHUwuyFw4ynD30vgg_GcK98/512fx384f"
+        },
+        "prices": {
+          "Factory New": {
+            "steam_price": "$0.19",
+            "steam_listings": "1643",
+            "steam_median_price": "$0.18",
+            "steam_volume": "448",
+            "bitskins_price": "$0.15"
+          },
+          "Minimal Wear": {
+            "steam_price": "$0.12",
+            "steam_listings": "1226",
+            "steam_median_price": "$0.11",
+            "steam_volume": "593",
+            "bitskins_price": "$0.10"
+          },
+          "Field-Tested": {
+            "steam_price": "$0.09",
+            "steam_listings": "2133",
+            "steam_median_price": "$0.07",
+            "steam_volume": "743",
+            "bitskins_price": "$0.05"
+          },
+          "Well-Worn": {
+            "steam_price": "$0.08",
+            "steam_listings": "428",
+            "steam_median_price": "$0.07",
+            "steam_volume": "90",
+            "bitskins_price": "$0.07"
+          },
+          "Battle-Scarred": {
+            "steam_price": "$0.09",
+            "steam_listings": "303",
+            "steam_median_price": "$0.06",
+            "steam_volume": "41",
+            "bitskins_price": "$0.07"
+          },
+          "Souvenir Factory New": {
+            "steam_price": "$1.81",
+            "steam_listings": "151",
+            "steam_median_price": "$1.06",
+            "steam_volume": "5",
+            "bitskins_price": "$1.32"
+          },
+          "Souvenir Minimal Wear": {
+            "steam_price": "$1.00",
+            "steam_listings": "94",
+            "steam_median_price": "$0.86",
+            "steam_volume": "6",
+            "bitskins_price": "$0.93"
+          },
+          "Souvenir Field-Tested": {
+            "steam_price": "$0.51",
+            "steam_listings": "123",
+            "steam_median_price": "$0.44",
+            "steam_volume": "25",
+            "bitskins_price": "$0.41"
+          },
+          "Souvenir Well-Worn": {
+            "steam_price": "$0.75",
+            "steam_listings": "68",
+            "steam_median_price": "$0.67",
+            "steam_volume": "6",
+            "bitskins_price": "$0.54"
+          },
+          "Souvenir Battle-Scarred": {
+            "steam_price": "$0.54",
+            "steam_listings": "40",
+            "steam_median_price": "$0.57",
+            "steam_volume": "1",
+            "bitskins_price": "$0.48"
+          }
         }
       },
       {
@@ -204,23 +1068,167 @@
           "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFAZt7PDBYz5X5ci0m4GZk8jzIb7UmFRc7cF4n-T--Y3nj1H6rkQ-YDz6d9OUc1c2NF-C_1O9xua818e77s_ByHZj6yIq4HbYnEOw0gYMMLK-kwCLiA/512fx384f",
           "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFAZt7PDBYz5X5ci0m4GZk8jzIb7UmFRc7cF4n-T--Y3nj1H6rkQ-YDz6d9OUc1c2NF-C_1O9xua818e77s_ByHZj6yIq4HbYnEOw0gYMMLK-kwCLiA/512fx384f",
           "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFAZt7PDBYz5X5ci0m4GZk8jzIb7UmFRZ7cRnk9bN9J7yjRrh_RY9YmygJoWccgBoYFGCq1DvlbjrjZW_tcvMm3U37iJ04yyJzEfkn1gSOcFbBYzk/512fx384f"
+        },
+        "prices": {
+          "Factory New": {
+            "steam_price": "$0.19",
+            "steam_listings": "1131",
+            "steam_median_price": "$0.18",
+            "steam_volume": "399",
+            "bitskins_price": "$0.18"
+          },
+          "Minimal Wear": {
+            "steam_price": "$0.12",
+            "steam_listings": "2074",
+            "steam_median_price": "$0.11",
+            "steam_volume": "543",
+            "bitskins_price": "$0.07"
+          },
+          "Field-Tested": {
+            "steam_price": "$0.09",
+            "steam_listings": "2081",
+            "steam_median_price": "$0.06",
+            "steam_volume": "619",
+            "bitskins_price": "$0.05"
+          },
+          "Well-Worn": {
+            "steam_price": "$0.10",
+            "steam_listings": "1023",
+            "steam_median_price": "$0.08",
+            "steam_volume": "69",
+            "bitskins_price": "$0.10"
+          },
+          "Battle-Scarred": {
+            "steam_price": "$0.09",
+            "steam_listings": "205",
+            "steam_median_price": "$0.07",
+            "steam_volume": "49",
+            "bitskins_price": "$0.07"
+          },
+          "Souvenir Factory New": {
+            "steam_price": "$0.57",
+            "steam_listings": "129",
+            "steam_median_price": "$0.52",
+            "steam_volume": "13",
+            "bitskins_price": "$0.39"
+          },
+          "Souvenir Minimal Wear": {
+            "steam_price": "$0.20",
+            "steam_listings": "124",
+            "steam_median_price": "$0.18",
+            "steam_volume": "13",
+            "bitskins_price": "$0.27"
+          },
+          "Souvenir Field-Tested": {
+            "steam_price": "$0.11",
+            "steam_listings": "323",
+            "steam_median_price": "$0.08",
+            "steam_volume": "36",
+            "bitskins_price": "$0.10"
+          },
+          "Souvenir Well-Worn": {
+            "steam_price": "$0.23",
+            "steam_listings": "91",
+            "steam_median_price": "$0.16",
+            "steam_volume": "8",
+            "bitskins_price": "$0.15"
+          },
+          "Souvenir Battle-Scarred": {
+            "steam_price": "$0.17",
+            "steam_listings": "102",
+            "steam_median_price": "$0.16",
+            "steam_volume": "4",
+            "bitskins_price": ""
+          }
         }
       }
     ],
     "Consumer Grade Skins": [
       {
-        "name": "P250 | Facility Draft",
-        "desc": "It has been covered in a red hydrographic pattern resembling a nuclear power plant.",
-        "lore": "Creating energy from atoms",
+        "name": "Five-SeveN | Coolant",
+        "desc": "The slide features a teal hydrographic pattern of interweaving pipes.",
+        "lore": "A handheld heat rejection device",
         "date_added": "1 September 2018",
         "can_be_souvenir": true,
         "can_be_stattrak": false,
         "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhoyszKfShH_M6_mpS0hfLwDLfYkWNF18lwmO7Eu43zjgGy8hFsa230IIeWIwc5ZVGF8le9x7q51p_ttZ-dyCc3vSd05irD30vg8bZaKmQ/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhoyszKfShH_M6_mpS0hfLwDLfYkWNF18lwmO7Eu43zjgGy8hFsa230IIeWIwc5ZVGF8le9x7q51p_ttZ-dyCc3vSd05irD30vg8bZaKmQ/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhoyszKfShH_M6_mpS0hfLwDLbUkmJE5fp9i_vG8ML33FXm_ko4amCicNCce1RtaAyG8gK4x-i91JG9vpvIwHE1uSIgtH6MgVXp1h2lFzCQ/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhoyszKfShH_M6_mpS0hfLwDLbUkmJE5fp9i_vG8ML33FXm_ko4amCicNCce1RtaAyG8gK4x-i91JG9vpvIwHE1uSIgtH6MgVXp1h2lFzCQ/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhoyszKfShH_M6_mpS0hfLwDLPUl31I18lwmO7Eu42h3gOwrUptYWqgIoOVcAE7NQnVqQLol7vq0cPptMycyXRj63Uq7XzD30vgVq_VVm4/512fx384f"
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLOzLhRlxfbGTjVb09ijl5SYqPDmNr7fqWdY781lteXA54vwxgLs_BBoMj2iI9eVewI2ZlqFrwO7k-rn1sTq6p6cmyMwvChz7SvaykGpwUYbdF1haSI/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLOzLhRlxfbGTjVb09ijl5SYqPDmNr7fqWdY781lteXA54vwxgLs_BBoMj2iI9eVewI2ZlqFrwO7k-rn1sTq6p6cmyMwvChz7SvaykGpwUYbdF1haSI/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLOzLhRlxfbGTjVb09ijl5SYqPDmNr7fqWZU7Mxkh9bN9J7yjRqx8hBuZzjwJNLAdQM9MFjWqQe3wO-8hZW_6pjIwSQ27iMh4CvanBzin1gSOZ8Ao7Up/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLOzLhRlxfbGTjVb09ijl5SYqPDmNr7fqWZU7Mxkh9bN9J7yjRqx8hBuZzjwJNLAdQM9MFjWqQe3wO-8hZW_6pjIwSQ27iMh4CvanBzin1gSOZ8Ao7Up/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLOzLhRlxfbGTjVb09ijl5SYqPDmNr7fqWNU6dNoteXA54vwxlHm8xFlYTuldYeReg84NF7RrFO3wLvt0JTvv5qaz3QyuHJwsSmMlkepwUYbJpZduf4/512fx384f"
+        },
+        "prices": {
+          "Factory New": {
+            "steam_price": "$0.06",
+            "steam_listings": "9803",
+            "steam_median_price": "$0.04",
+            "steam_volume": "1261",
+            "bitskins_price": "$0.05"
+          },
+          "Minimal Wear": {
+            "steam_price": "$0.04",
+            "steam_listings": "5679",
+            "steam_median_price": "$0.03",
+            "steam_volume": "1116",
+            "bitskins_price": "$0.08"
+          },
+          "Field-Tested": {
+            "steam_price": "$0.04",
+            "steam_listings": "15312",
+            "steam_median_price": "$0.03",
+            "steam_volume": "1693",
+            "bitskins_price": "$0.15"
+          },
+          "Well-Worn": {
+            "steam_price": "$0.04",
+            "steam_listings": "2152",
+            "steam_median_price": "$0.03",
+            "steam_volume": "192",
+            "bitskins_price": "$0.10"
+          },
+          "Battle-Scarred": {
+            "steam_price": "$0.04",
+            "steam_listings": "1842",
+            "steam_median_price": "$0.03",
+            "steam_volume": "117",
+            "bitskins_price": "$4,985.11"
+          },
+          "Souvenir Factory New": {
+            "steam_price": "$0.43",
+            "steam_listings": "421",
+            "steam_median_price": "$0.43",
+            "steam_volume": "46",
+            "bitskins_price": "$0.36"
+          },
+          "Souvenir Minimal Wear": {
+            "steam_price": "$0.20",
+            "steam_listings": "279",
+            "steam_median_price": "$0.20",
+            "steam_volume": "48",
+            "bitskins_price": "$0.15"
+          },
+          "Souvenir Field-Tested": {
+            "steam_price": "$0.07",
+            "steam_listings": "1215",
+            "steam_median_price": "$0.04",
+            "steam_volume": "99",
+            "bitskins_price": "$0.07"
+          },
+          "Souvenir Well-Worn": {
+            "steam_price": "$0.09",
+            "steam_listings": "268",
+            "steam_median_price": "$0.07",
+            "steam_volume": "13",
+            "bitskins_price": "$0.21"
+          },
+          "Souvenir Battle-Scarred": {
+            "steam_price": "$0.10",
+            "steam_listings": "244",
+            "steam_median_price": "$0.07",
+            "steam_volume": "10",
+            "bitskins_price": "$0.51"
+          }
         }
       },
       {
@@ -236,36 +1244,78 @@
           "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1Jf2-r3czFX6cyknY6fqPX4Jr7Dk29u5cB1g_zMyoD0mlOx5UQ5Y27wdoHAJlBtYg3S-Qe_l-vqjJC16pSfzXVl6CEg7Hrbm0O-iR5SLrs46EUVrd4/512fx384f",
           "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1Jf2-r3czFX6cyknY6fqPX4Jr7Dk29u5cB1g_zMyoD0mlOx5UQ5Y27wdoHAJlBtYg3S-Qe_l-vqjJC16pSfzXVl6CEg7Hrbm0O-iR5SLrs46EUVrd4/512fx384f",
           "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1Jf2-r3czFX6cyknY6fqPX4Jr7Dk29u4MBwnPD--Y3nj1H6r0BrMTynddCQclM9aVnQ-lTow-rt1JHo6ZqfyHpj6yEitHjamEbj0gYMMLKwQbnM1w/512fx384f"
-        }
-      },
-      {
-        "name": "Five-SeveN | Coolant",
-        "desc": "The slide features a teal hydrographic pattern of interweaving pipes.",
-        "lore": "A handheld heat rejection device",
-        "date_added": "1 September 2018",
-        "can_be_souvenir": true,
-        "can_be_stattrak": false,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLOzLhRlxfbGTjVb09ijl5SYqPDmNr7fqWdY781lteXA54vwxgLs_BBoMj2iI9eVewI2ZlqFrwO7k-rn1sTq6p6cmyMwvChz7SvaykGpwUYbdF1haSI/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLOzLhRlxfbGTjVb09ijl5SYqPDmNr7fqWdY781lteXA54vwxgLs_BBoMj2iI9eVewI2ZlqFrwO7k-rn1sTq6p6cmyMwvChz7SvaykGpwUYbdF1haSI/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLOzLhRlxfbGTjVb09ijl5SYqPDmNr7fqWZU7Mxkh9bN9J7yjRqx8hBuZzjwJNLAdQM9MFjWqQe3wO-8hZW_6pjIwSQ27iMh4CvanBzin1gSOZ8Ao7Up/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLOzLhRlxfbGTjVb09ijl5SYqPDmNr7fqWZU7Mxkh9bN9J7yjRqx8hBuZzjwJNLAdQM9MFjWqQe3wO-8hZW_6pjIwSQ27iMh4CvanBzin1gSOZ8Ao7Up/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLOzLhRlxfbGTjVb09ijl5SYqPDmNr7fqWNU6dNoteXA54vwxlHm8xFlYTuldYeReg84NF7RrFO3wLvt0JTvv5qaz3QyuHJwsSmMlkepwUYbJpZduf4/512fx384f"
-        }
-      },
-      {
-        "name": "PP-Bizon | Facility Sketch",
-        "desc": "A grayscale hydrographic pattern resembling a nuclear power plant has been applied.",
-        "lore": "\"Your point of entry is the ventilation system\"",
-        "date_added": "1 September 2018",
-        "can_be_souvenir": true,
-        "can_be_stattrak": false,
-        "wears": {
-          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlf2-r3czFX6cyknY6fqOD8Oq_UqWdY781lteXA54vwxgG18xE-Zm7yJdDAIQc5ZFDY_lXoyOy90MfutMzInCExuiUms3bczUGpwUYbVtpyyys/512fx384f",
-          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlf2-r3czFX6cyknY6fqOD8Oq_UqWdY781lteXA54vwxgG18xE-Zm7yJdDAIQc5ZFDY_lXoyOy90MfutMzInCExuiUms3bczUGpwUYbVtpyyys/512fx384f",
-          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlf2-r3czFX6cyknY6fqOD8Oq_UqWZU7Mxkh9bN9J7yjRqw_Us9MG-hcoSSJwVoZVuFrge7weu6h5Lptc_KzHdnvSklt3bZyxLin1gSObKbZrjQ/512fx384f",
-          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlf2-r3czFX6cyknY6fqOD8Oq_UqWZU7Mxkh9bN9J7yjRqw_Us9MG-hcoSSJwVoZVuFrge7weu6h5Lptc_KzHdnvSklt3bZyxLin1gSObKbZrjQ/512fx384f",
-          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlf2-r3czFX6cyknY6fqOD8Oq_UqWNU6dNoteXA54vwxlC3_0Q_YDv7d9KSJ1c5aFjVqVG6kri50J-0uM6cmyZquHIrsHzYnBypwUYblTFch-k/512fx384f"
+        },
+        "prices": {
+          "Factory New": {
+            "steam_price": "$0.06",
+            "steam_listings": "4887",
+            "steam_median_price": "$0.03",
+            "steam_volume": "984",
+            "bitskins_price": "$0.05"
+          },
+          "Minimal Wear": {
+            "steam_price": "$0.04",
+            "steam_listings": "6693",
+            "steam_median_price": "$0.03",
+            "steam_volume": "828",
+            "bitskins_price": "$4,985.11"
+          },
+          "Field-Tested": {
+            "steam_price": "$0.04",
+            "steam_listings": "12072",
+            "steam_median_price": "$0.03",
+            "steam_volume": "1487",
+            "bitskins_price": "$0.13"
+          },
+          "Well-Worn": {
+            "steam_price": "$0.04",
+            "steam_listings": "2409",
+            "steam_median_price": "$0.03",
+            "steam_volume": "191",
+            "bitskins_price": ""
+          },
+          "Battle-Scarred": {
+            "steam_price": "$0.04",
+            "steam_listings": "2637",
+            "steam_median_price": "$0.03",
+            "steam_volume": "104",
+            "bitskins_price": ""
+          },
+          "Souvenir Factory New": {
+            "steam_price": "$0.10",
+            "steam_listings": "637",
+            "steam_median_price": "$0.09",
+            "steam_volume": "55",
+            "bitskins_price": "$0.14"
+          },
+          "Souvenir Minimal Wear": {
+            "steam_price": "$0.05",
+            "steam_listings": "835",
+            "steam_median_price": "$0.03",
+            "steam_volume": "61",
+            "bitskins_price": "$0.04"
+          },
+          "Souvenir Field-Tested": {
+            "steam_price": "$0.04",
+            "steam_listings": "2321",
+            "steam_median_price": "$0.03",
+            "steam_volume": "94",
+            "bitskins_price": "$0.10"
+          },
+          "Souvenir Well-Worn": {
+            "steam_price": "$0.05",
+            "steam_listings": "432",
+            "steam_median_price": "$0.03",
+            "steam_volume": "12",
+            "bitskins_price": "$0.24"
+          },
+          "Souvenir Battle-Scarred": {
+            "steam_price": "$0.07",
+            "steam_listings": "299",
+            "steam_median_price": "$0.04",
+            "steam_volume": "12",
+            "bitskins_price": "$0.19"
+          }
         }
       },
       {
@@ -281,6 +1331,252 @@
           "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhoyszMZD5W_-OxhoWSqPrxN7LEm1Rd6dd2j6fAoIqm2AK280A4YjihIIaSJwNtY1DQr1box-rqhJTquJrAwXthvnIl-z-DyCDq5n8c/512fx384f",
           "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhoyszMZD5W_-OxhoWSqPrxN7LEm1Rd6dd2j6fAoIqm2AK280A4YjihIIaSJwNtY1DQr1box-rqhJTquJrAwXthvnIl-z-DyCDq5n8c/512fx384f",
           "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhoyszMZD5W_-OxhoWSqP_xMq3IqWdQ-sJ0xOjE89mg3QXsr0VuY2yncIWUJ1BtaA7S_1brwOu8hJC_7cnInXcwuyc8pSGKpFDODoQ/512fx384f"
+        },
+        "prices": {
+          "Factory New": {
+            "steam_price": "$0.06",
+            "steam_listings": "7075",
+            "steam_median_price": "$0.03",
+            "steam_volume": "1060",
+            "bitskins_price": "$0.05"
+          },
+          "Minimal Wear": {
+            "steam_price": "$0.04",
+            "steam_listings": "4274",
+            "steam_median_price": "$0.03",
+            "steam_volume": "1175",
+            "bitskins_price": "$4,985.11"
+          },
+          "Field-Tested": {
+            "steam_price": "$0.03",
+            "steam_listings": "11687",
+            "steam_median_price": "$0.03",
+            "steam_volume": "1890",
+            "bitskins_price": "$4,935.26"
+          },
+          "Well-Worn": {
+            "steam_price": "$0.04",
+            "steam_listings": "1801",
+            "steam_median_price": "$0.03",
+            "steam_volume": "133",
+            "bitskins_price": "$0.40"
+          },
+          "Battle-Scarred": {
+            "steam_price": "$0.04",
+            "steam_listings": "1499",
+            "steam_median_price": "$0.03",
+            "steam_volume": "108",
+            "bitskins_price": "$0.35"
+          },
+          "Souvenir Factory New": {
+            "steam_price": "$0.12",
+            "steam_listings": "415",
+            "steam_median_price": "$0.11",
+            "steam_volume": "44",
+            "bitskins_price": "$0.07"
+          },
+          "Souvenir Minimal Wear": {
+            "steam_price": "$0.06",
+            "steam_listings": "542",
+            "steam_median_price": "$0.04",
+            "steam_volume": "70",
+            "bitskins_price": "$0.06"
+          },
+          "Souvenir Field-Tested": {
+            "steam_price": "$0.04",
+            "steam_listings": "2953",
+            "steam_median_price": "$0.03",
+            "steam_volume": "83",
+            "bitskins_price": "$0.06"
+          },
+          "Souvenir Well-Worn": {
+            "steam_price": "$0.06",
+            "steam_listings": "528",
+            "steam_median_price": "$0.04",
+            "steam_volume": "13",
+            "bitskins_price": "$13.60"
+          },
+          "Souvenir Battle-Scarred": {
+            "steam_price": "$0.07",
+            "steam_listings": "282",
+            "steam_median_price": "$0.05",
+            "steam_volume": "9",
+            "bitskins_price": "$0.10"
+          }
+        }
+      },
+      {
+        "name": "PP-Bizon | Facility Sketch",
+        "desc": "A grayscale hydrographic pattern resembling a nuclear power plant has been applied.",
+        "lore": "\"Your point of entry is the ventilation system\"",
+        "date_added": "1 September 2018",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlf2-r3czFX6cyknY6fqOD8Oq_UqWdY781lteXA54vwxgG18xE-Zm7yJdDAIQc5ZFDY_lXoyOy90MfutMzInCExuiUms3bczUGpwUYbVtpyyys/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlf2-r3czFX6cyknY6fqOD8Oq_UqWdY781lteXA54vwxgG18xE-Zm7yJdDAIQc5ZFDY_lXoyOy90MfutMzInCExuiUms3bczUGpwUYbVtpyyys/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlf2-r3czFX6cyknY6fqOD8Oq_UqWZU7Mxkh9bN9J7yjRqw_Us9MG-hcoSSJwVoZVuFrge7weu6h5Lptc_KzHdnvSklt3bZyxLin1gSObKbZrjQ/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlf2-r3czFX6cyknY6fqOD8Oq_UqWZU7Mxkh9bN9J7yjRqw_Us9MG-hcoSSJwVoZVuFrge7weu6h5Lptc_KzHdnvSklt3bZyxLin1gSObKbZrjQ/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlf2-r3czFX6cyknY6fqOD8Oq_UqWNU6dNoteXA54vwxlC3_0Q_YDv7d9KSJ1c5aFjVqVG6kri50J-0uM6cmyZquHIrsHzYnBypwUYblTFch-k/512fx384f"
+        },
+        "prices": {
+          "Factory New": {
+            "steam_price": "$0.06",
+            "steam_listings": "9776",
+            "steam_median_price": "$0.04",
+            "steam_volume": "1179",
+            "bitskins_price": "$0.04"
+          },
+          "Minimal Wear": {
+            "steam_price": "$0.04",
+            "steam_listings": "6710",
+            "steam_median_price": "$0.03",
+            "steam_volume": "922",
+            "bitskins_price": "$4,985.11"
+          },
+          "Field-Tested": {
+            "steam_price": "$0.04",
+            "steam_listings": "19047",
+            "steam_median_price": "$0.03",
+            "steam_volume": "1695",
+            "bitskins_price": "$2.55"
+          },
+          "Well-Worn": {
+            "steam_price": "$0.04",
+            "steam_listings": "2524",
+            "steam_median_price": "$0.03",
+            "steam_volume": "169",
+            "bitskins_price": ""
+          },
+          "Battle-Scarred": {
+            "steam_price": "$0.04",
+            "steam_listings": "2230",
+            "steam_median_price": "$0.03",
+            "steam_volume": "99",
+            "bitskins_price": ""
+          },
+          "Souvenir Factory New": {
+            "steam_price": "$0.94",
+            "steam_listings": "276",
+            "steam_median_price": "$0.86",
+            "steam_volume": "39",
+            "bitskins_price": "$0.78"
+          },
+          "Souvenir Minimal Wear": {
+            "steam_price": "$0.54",
+            "steam_listings": "207",
+            "steam_median_price": "$0.47",
+            "steam_volume": "42",
+            "bitskins_price": "$0.43"
+          },
+          "Souvenir Field-Tested": {
+            "steam_price": "$0.13",
+            "steam_listings": "648",
+            "steam_median_price": "$0.11",
+            "steam_volume": "80",
+            "bitskins_price": "$0.10"
+          },
+          "Souvenir Well-Worn": {
+            "steam_price": "$0.15",
+            "steam_listings": "136",
+            "steam_median_price": "$0.13",
+            "steam_volume": "12",
+            "bitskins_price": "$0.15"
+          },
+          "Souvenir Battle-Scarred": {
+            "steam_price": "$0.27",
+            "steam_listings": "153",
+            "steam_median_price": "$0.18",
+            "steam_volume": "19",
+            "bitskins_price": "$0.30"
+          }
+        }
+      },
+      {
+        "name": "P250 | Facility Draft",
+        "desc": "It has been covered in a red hydrographic pattern resembling a nuclear power plant.",
+        "lore": "Creating energy from atoms",
+        "date_added": "1 September 2018",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhoyszKfShH_M6_mpS0hfLwDLfYkWNF18lwmO7Eu43zjgGy8hFsa230IIeWIwc5ZVGF8le9x7q51p_ttZ-dyCc3vSd05irD30vg8bZaKmQ/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhoyszKfShH_M6_mpS0hfLwDLfYkWNF18lwmO7Eu43zjgGy8hFsa230IIeWIwc5ZVGF8le9x7q51p_ttZ-dyCc3vSd05irD30vg8bZaKmQ/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhoyszKfShH_M6_mpS0hfLwDLbUkmJE5fp9i_vG8ML33FXm_ko4amCicNCce1RtaAyG8gK4x-i91JG9vpvIwHE1uSIgtH6MgVXp1h2lFzCQ/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhoyszKfShH_M6_mpS0hfLwDLbUkmJE5fp9i_vG8ML33FXm_ko4amCicNCce1RtaAyG8gK4x-i91JG9vpvIwHE1uSIgtH6MgVXp1h2lFzCQ/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhoyszKfShH_M6_mpS0hfLwDLPUl31I18lwmO7Eu42h3gOwrUptYWqgIoOVcAE7NQnVqQLol7vq0cPptMycyXRj63Uq7XzD30vgVq_VVm4/512fx384f"
+        },
+        "prices": {
+          "Factory New": {
+            "steam_price": "$0.06",
+            "steam_listings": "4339",
+            "steam_median_price": "$0.04",
+            "steam_volume": "1302",
+            "bitskins_price": "$0.05"
+          },
+          "Minimal Wear": {
+            "steam_price": "$0.04",
+            "steam_listings": "6676",
+            "steam_median_price": "$0.03",
+            "steam_volume": "899",
+            "bitskins_price": "$0.06"
+          },
+          "Field-Tested": {
+            "steam_price": "$0.03",
+            "steam_listings": "13015",
+            "steam_median_price": "$0.03",
+            "steam_volume": "1317",
+            "bitskins_price": "$4,985.11"
+          },
+          "Well-Worn": {
+            "steam_price": "$0.04",
+            "steam_listings": "1788",
+            "steam_median_price": "$0.03",
+            "steam_volume": "154",
+            "bitskins_price": "$4,985.11"
+          },
+          "Battle-Scarred": {
+            "steam_price": "$0.04",
+            "steam_listings": "1993",
+            "steam_median_price": "$0.03",
+            "steam_volume": "129",
+            "bitskins_price": "$4,985.11"
+          },
+          "Souvenir Factory New": {
+            "steam_price": "$0.14",
+            "steam_listings": "479",
+            "steam_median_price": "$0.12",
+            "steam_volume": "98",
+            "bitskins_price": "$0.09"
+          },
+          "Souvenir Minimal Wear": {
+            "steam_price": "$0.07",
+            "steam_listings": "584",
+            "steam_median_price": "$0.04",
+            "steam_volume": "103",
+            "bitskins_price": "$0.06"
+          },
+          "Souvenir Field-Tested": {
+            "steam_price": "$0.05",
+            "steam_listings": "1679",
+            "steam_median_price": "$0.03",
+            "steam_volume": "161",
+            "bitskins_price": "$0.04"
+          },
+          "Souvenir Well-Worn": {
+            "steam_price": "$0.09",
+            "steam_listings": "291",
+            "steam_median_price": "$0.06",
+            "steam_volume": "18",
+            "bitskins_price": "$0.10"
+          },
+          "Souvenir Battle-Scarred": {
+            "steam_price": "$0.10",
+            "steam_listings": "283",
+            "steam_median_price": "$0.06",
+            "steam_volume": "18",
+            "bitskins_price": "$0.15"
+          }
         }
       }
     ]

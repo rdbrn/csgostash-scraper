@@ -17,6 +17,50 @@
           "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhjxszQYzxb08zkwdC0m_7zO6_ummpD78A_3uuY89ql21HlqkI4N22ncYTBdAJrYV2CrFO_wOjn18W07p3OySA1uD5iuyiPLEDzxw/512fx384f",
           "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhjxszQYzxb08zkwdC0m_7zO6_ummpD78A_3uuY89ql21HlqkI4N22ncYTBdAJrYV2CrFO_wOjn18W07p3OySA1uD5iuyiPLEDzxw/512fx384f",
           "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhjxszQYzxb08zkwdC0mvLwOq7cqWdQ-sJ0xO-Q8Nyt2gDtqRVpYjv6IIDBcFA4Nw6Er1a4w7-51JO7ucibwCE27HE8pSGKBI8tbWI/512fx384f"
+        },
+        "prices": {
+          "StatTrak Factory New": {
+            "steam_price": "$4.20",
+            "steam_listings": "145",
+            "steam_median_price": "$3.93",
+            "steam_volume": "15",
+            "bitskins_price": "$3.22"
+          },
+          "StatTrak Minimal Wear": {
+            "steam_price": "$1.98",
+            "steam_listings": "196",
+            "steam_median_price": "$1.83",
+            "steam_volume": "34",
+            "bitskins_price": "$1.55"
+          },
+          "StatTrak Field-Tested": {
+            "steam_price": "$1.61",
+            "steam_listings": "212",
+            "steam_median_price": "$1.60",
+            "steam_volume": "19",
+            "bitskins_price": "$2.72"
+          },
+          "Factory New": {
+            "steam_price": "$0.71",
+            "steam_listings": "1064",
+            "steam_median_price": "$0.65",
+            "steam_volume": "232",
+            "bitskins_price": "$0.68"
+          },
+          "Minimal Wear": {
+            "steam_price": "$0.39",
+            "steam_listings": "1229",
+            "steam_median_price": "$0.36",
+            "steam_volume": "378",
+            "bitskins_price": "$0.29"
+          },
+          "Field-Tested": {
+            "steam_price": "$0.34",
+            "steam_listings": "760",
+            "steam_median_price": "$0.31",
+            "steam_volume": "151",
+            "bitskins_price": "$0.25"
+          }
         }
       }
     ],

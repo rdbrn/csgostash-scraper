@@ -66,6 +66,10 @@ class PageNoPagination(ScraperException):
     """Exception that is thrown if a page does no have pagination"""
     pass
 
+class ItemHasNoPrices(ScraperException):
+    """Exception that is throw if scraping an items prices fails"""
+    pass
+
 
 class PageHandler:
 
@@ -321,6 +325,26 @@ class RetrieveWeaponSkin(RetrieveObject):
 
         return possible_wears
 
+    def get_prices(self):
+        table = self.parsed_page.find('table')
+        table_rows = table.find_all('tr')
+        prices = {}
+        for tr in table_rows:
+            td = tr.find_all('td')
+            row = [i.text for i in td]
+            if bool(row) == False:
+                continue
+            wear = row[0].strip()
+            steam_price = row[1].strip()
+            steam_listings = row[2].strip()
+            steam_median_price = row[3].strip()
+            steam_volume = row[4].strip()
+            bitskins_price = row[5].strip()
+            try:
+                prices[wear] = {'steam_price': steam_price, 'steam_listings': steam_listings, 'steam_median_price': steam_median_price, 'steam_volume': steam_volume, 'bitskins_price': bitskins_price}
+            except KeyError:
+                raise ItemHasNoPrices()
+        return prices
 
 class RetrieveCollection(RetrieveObject):
 

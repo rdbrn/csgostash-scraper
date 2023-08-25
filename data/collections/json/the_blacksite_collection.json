@@ -1,6 +1,6 @@
 {
   "name": "The Blacksite Collection",
-  "image_url": "https://csgostash.com/img/collections/256x198/the_blacksite_collection.png?id=e221b078739a175c73c7",
+  "image_url": "https://csgostash.com/img/collections/256x198/the_blacksite_collection.png?id=e221b078739a175c73c799591642cc31",
   "content": {
     "Rare Special Items": [],
     "Covert Skins": [],
@@ -17,6 +17,50 @@
           "Factory New": "https://csgostash.com/img/items/missing/skin.png",
           "Minimal Wear": "https://csgostash.com/img/items/missing/skin.png",
           "Field-Tested": "https://csgostash.com/img/items/missing/skin.png"
+        },
+        "prices": {
+          "Factory New": {
+            "steam_price": "",
+            "steam_listings": "",
+            "steam_median_price": "",
+            "steam_volume": "",
+            "bitskins_price": ""
+          },
+          "Minimal Wear": {
+            "steam_price": "",
+            "steam_listings": "",
+            "steam_median_price": "",
+            "steam_volume": "",
+            "bitskins_price": ""
+          },
+          "Field-Tested": {
+            "steam_price": "",
+            "steam_listings": "",
+            "steam_median_price": "",
+            "steam_volume": "",
+            "bitskins_price": ""
+          },
+          "Souvenir Factory New": {
+            "steam_price": "$0.17",
+            "steam_listings": "2993",
+            "steam_median_price": "$0.17",
+            "steam_volume": "411",
+            "bitskins_price": "$0.13"
+          },
+          "Souvenir Minimal Wear": {
+            "steam_price": "$0.11",
+            "steam_listings": "8785",
+            "steam_median_price": "$0.10",
+            "steam_volume": "696",
+            "bitskins_price": "$0.18"
+          },
+          "Souvenir Field-Tested": {
+            "steam_price": "$0.11",
+            "steam_listings": "5397",
+            "steam_median_price": "$0.09",
+            "steam_volume": "631",
+            "bitskins_price": "$0.12"
+          }
         }
       }
     ],

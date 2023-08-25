@@ -75,7 +75,9 @@ def fmt_dict(container):
                     "date_added": item.date_added,
                     "can_be_souvenir": item.can_be_souvenir,
                     "can_be_stattrak": item.can_be_stattrak,
-                    "wears": item.wears}
+                    "wears": item.wears,
+                    "prices": item.prices}
+        
 
         if "★" in item.name:
             rare.append(itemdict)
